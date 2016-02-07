@@ -1,0 +1,28 @@
+name: Corporeal Writing Online
+favicon: null
+layout_spectrum: 0.491248766425997
+typography_spectrum: 0.6245036658365279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.560785956447944
+  lightness: 0.22953628958202899
+  saturation: 0.22476071678102016
+  rhythmicContrast: 0.860525930300355
+purpose: []
